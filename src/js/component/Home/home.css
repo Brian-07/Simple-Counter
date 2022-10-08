@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+}
+#reloj,#divReloj{
+    background: rgb(25, 25, 25);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
